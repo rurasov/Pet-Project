@@ -1,4 +1,8 @@
-# Recalculation of the sum calculator
+# Recalculation of the sum calculator #
+
+![](https://user-images.githubusercontent.com/11939026/29109032-2a150c5a-7cea-11e7-948a-5871ac5511b3.png)
+
+
 Приложение позволяет в интерактивном режиме рассчитать сумму возврата в рублях, в зависимости от месяца, в котором использовалась услуга.
 
 ## Зависимости
